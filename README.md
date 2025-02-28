@@ -91,9 +91,6 @@ This project includes a `netlify.toml` file for easy deployment on Netlify. To d
 }
 ```
 
-## License
-
-This project is licensed under the **MIT License**.
 
 ## Contact
 
